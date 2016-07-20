@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+div {
+	background: #F9CB9C;
+	padding: 40px 20px 70px 100px;
+	border-top: #9900FF 20px solid;
+ 	border-bottom: #9900FF 20px solid;
+ 	border-left: #9900FF 5px solid;
+ 	border-right: #9900FF 5px solid;
+}
+p{
+	background: white;
+	padding: 15px;
+	border: green 1px dashed;
+	text-align: center;
+}
